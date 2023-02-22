@@ -15,7 +15,7 @@ graphicpub = createGraphics(width, height);
 graphic = createGraphics(width, height); //taille du calque
 graphicpub.fill(255,255,0);
 graphicpub.stroke(235,235,0)
-graphicpub.rect(543,1420,500,270);
+graphicpub.rect(543,1420,500,300);
 
 
 }
