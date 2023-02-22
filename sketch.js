@@ -35,11 +35,5 @@ if(mouseIsPressed){
 image(graphic,0,0); //affiche le graphique
 image(graphicpub,0,0);
 
-//////////////////lien/////////////////////
-//var texteAffiché = "MDN";
-//var URL = "https://youtu.be/dQw4w9WgXcQ";
-
-//console.log("Cliquer ici pour revenir sur " + texteAffiché.link(URL));
-// Cliquer ici pour revenir sur <a href="https://youtu.be/dQw4w9WgXcQ">MDN</a>
 
 }
