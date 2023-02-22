@@ -3,7 +3,7 @@ let image1;
 let graphic;///créer un graphique(différents calques)
 let graphicpub;
 function setup() { 
-  canvas=createCanvas(windowWidth, windowHeight*2.3 );
+  canvas=createCanvas(windowWidth, windowHeight*2.4 );
   canvas.position(0,0);
   canvas.style('z-index', '-0');// changer de plan(arrière plan/avant plan)en dépendant de z
  image1=loadImage("Logo transparent 2.png")
